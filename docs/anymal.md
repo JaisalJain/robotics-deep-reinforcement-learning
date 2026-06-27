@@ -1,6 +1,9 @@
 # ANYmal C Rough Terrain Locomotion using Reinforcement Learning
 
-📹 `../videos/anymal.mp4`
+
+
+https://github.com/user-attachments/assets/67d29a16-b529-4566-af5c-d2afcd1bfa8e
+
 
 ---
 
